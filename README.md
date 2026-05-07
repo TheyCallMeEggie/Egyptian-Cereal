@@ -6,7 +6,7 @@ This is the very first Egyptian Whole Wheat Cereal produced by two girls that go
     <title>Our Cereal</title>
     <link rel="icon" type="image/png" href="favicon.png">
     <style>
-        <img src="my-photo.jnp" alt="Egyptian Goddess"width="500">
+        
         body {
             background-color: #FFCBA4;
             font-family: sans-serif;
