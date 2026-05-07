@@ -7,6 +7,8 @@ This is the very first Egyptian Whole Wheat Cereal produced by two girls that go
     <title>Our Cereal</title>
     <link rel="icon" type="image/png" href="favicon.png">
     <style>
+    <img width="320" height="240" alt="CatEgyptGIF (2)" src="https://github.com/user-attachments/assets/5c44da03-9fdb-4615-99ac-55e9a1106b9e" />
+
         
         body {
             background-color: #FFCBA4;
