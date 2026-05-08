@@ -3,6 +3,8 @@ This is the very first Egyptian Whole Wheat Cereal produced by two girls that go
 
 
 <html>
+  <img width="250" height="157" alt="TheMummyPyramidGIF" src="https://github.com/user-attachments/assets/6cfc84b2-25b2-434a-9798-26dd9691e2ad" />
+
 <head>
     <title>Our Cereal</title>
     <style>
