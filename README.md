@@ -4,8 +4,10 @@ This is the very first Egyptian Whole Wheat Cereal produced by two girls that go
 
 
 <html>
+<html><img width="250" height="157" alt="TheMummyPyramidGIF" src="https://github.com/user-attachments/assets/7c2c1b8e-4163-4206-a69e-6d1f46d2049f" /> 
+</html>
 
-
+<html> <p>Pyramids were built by the Egyptians, why couldn't to simple girls build cereal and this website? </p></html>
 <head>
     <title>Our Cereal</title>
     <style>
